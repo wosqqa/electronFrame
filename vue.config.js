@@ -1,7 +1,7 @@
 /*
  * @Author: wosqqa
  * @Date: 2022-06-18 17:15:15
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-08-09 12:05:49
  * @Description: vue-cli 配置
  */

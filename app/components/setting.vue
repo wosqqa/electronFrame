@@ -1,7 +1,7 @@
 <!--
  * @Author: wosqqa
  * @Date: 2022-07-23 21:02:45
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-08-14 23:23:56
  * @Description: setting 组件
 -->

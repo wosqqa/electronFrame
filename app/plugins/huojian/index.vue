@@ -1,7 +1,7 @@
 <!--
  * @Author: wosqqa
  * @Date: 2022-05-25 23:18:50
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-07-22 00:52:31
  * @Description: music 火箭升空
 -->
@@ -11,7 +11,7 @@
     <Layout />
     <!-- 页面内容 -->
     <article class="h-screen flex-col-center">
-      <h1 class="text-lg">新增火箭页面</h1>
+      <h1 class="text-lg">新增火箭页面222</h1>
     </article>
   </main>
 </template>

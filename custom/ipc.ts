@@ -1,7 +1,7 @@
 /*
  * @Author: wosqqa
  * @Date: 2022-07-15 12:45:00
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-08-13 19:21:30
  * @Description: icp 事件发送
  */

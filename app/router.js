@@ -1,7 +1,7 @@
 /*
  * @Author: wosqqa
  * @Date: 2022-05-25 23:18:50
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-08-11 16:00:14
  * @Description: router 配置
  */
@@ -14,7 +14,7 @@ const routes = pluginList.map((item) => {
   return {
     name: item.name,
     path: '/' + item.name,
-    component: () => import('./plugins/' + item.name),
+    component: () => import('./plugins/' + item.name + '/index.vue'),
   }
 })
 

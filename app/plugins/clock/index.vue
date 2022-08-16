@@ -1,7 +1,7 @@
 <!--
  * @Author: wosqqa
  * @Date: 2022-06-10 09:12:28
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa
  * @LastEditTime: 2022-07-27 00:12:22
  * @Description: 翻牌时钟
 -->
