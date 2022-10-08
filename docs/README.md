@@ -1,26 +1,10 @@
 <!--
  * @Author: wosqqa
  * @Date: 2022-06-18 17:15:15
- * @LastEditors: wosqqa nmdwosqqa@163.com
+ * @LastEditors: wosqqa 
  * @LastEditTime: 2022-08-15 22:53:46
  * @Description: Monit 说明文档
 -->
-
-<p align="center">
-  <a href="https://monit.wosqqa.art" target="_blank">
-    <img src="icon.png" alt="Monit" height="200" width="500"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://monit.wosqqa.top"> 开发文档 </a> ｜
-  <a href="https://github.com/wosqqa/Monit/releases"> 软件下载 </a> ｜
-  <a href="https://hub.fastgit.xyz/wosqqa/Monit/releases"> 国内镜像 </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wosqqa/image/2022/2022-08-15_22-51-29.webp" alt="bashow" style="zoom:50%;" />
-</p>
 
 ## ✨ 功能
 
